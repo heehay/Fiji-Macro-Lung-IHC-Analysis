@@ -14,9 +14,9 @@ All thresholding algorithms used in the macros are available on Fiji software (I
         
         https://imagej.net/plugins/adjustable-watershed/adjustable-watershed
 
-- 06082026_microglia_phenotype: Analyzes microglial cell count, percent area, and morphology (branches mean, junctions mean, average size, max length mean, average length mean, circularity, solidity, and perimeter). 
-This code has been customized for IHC co-stained for: IBA1, CD68, and CD16.
+- Lung section_marophage_qIHC: Analyzes macrophage cell count and percent area.
+This code has been customized for IHC co-stained for: CD68, CD206, iNOS.
 
-- 06082026_tmem phenotype: Analyzes microglial cell count, percent area, and morphology (branches mean, junctions mean, average size, max length mean, average length mean, circularity, solidity, and perimeter). 
-This code has been customized for IHC stained for: TMEM119.
+- Lung section_fibrogenesis_qIHC: Analyzes CTHRC1 and collagen I  percent area. 
+This code has been customized for IHC stained for: CTHRC1 and collagen I.
 
